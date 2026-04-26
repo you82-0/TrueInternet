@@ -1,6 +1,7 @@
 Assuming you are about to jump into your first manual VPN, I'll try to explain step by step
 
 Analogy
+
 Client(your device) → ISP → Proxy → DNS → Destination
 
 first things to know is that in order to run this procedure, we need a platform that is called "GUI Client"

@@ -18,8 +18,8 @@ The server replies with the IP (or says “not found”).
 * DHCP - Your router or ISP handle the DNS Automatically
 * Static - You type a specific DNS address (e.g.,`8.8.8.8`) into your network setting, control it manually and ignore ISP's DNS
 
-<!-- How ISP Block Internet Access in Iran 2026-->
-## How ISP Block Internet Access in Iran
+<!-- How ISP Block Internet Access in Iran -->
+## How ISP Block Internet Access in Iran 2026
 
 
 

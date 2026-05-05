@@ -1,12 +1,15 @@
-I'm not a professional and sincerely appreciate any skilled one to assist me with the True Internet Project
+<!-- Author -->
+## Author
+I'm not a professional and sincerely appreciate any skilled individual to assist me with the True Internet Project.
 
+<!-- Analogy -->
+## Analogy
 Assuming you are about to jump into your first manual VPN, I'll try to explain step by step
-
-> # Analogy
 > ## how you connect to the Internet properly
-> * Normal: `Client(your device) → ISP → DNS → Destination`
->
->  * with Proxy: `Client(your device) → Proxy → Proxy's DNS Built-in → ISP → Destination`
+
+* Normal: `Client(your device) → ISP → DNS → Destination`
+
+* with Proxy: `Client(your device) → Proxy → Proxy's DNS Built-in → ISP → Destination`
 
 first things to know is that in order to run this procedure, we need a platform that is called "GUI Client" in slang also known as Program/App etc.
 

@@ -4,7 +4,7 @@ I'm not a professional and sincerely appreciate any skilled individual to assist
 
 <!-- Analogy -->
 ## Analogy
-Assuming you are about to jump into your first manual VPN, I'll try to explain step by step
+Assuming you are about to jump into your first manual VPN, I'll try to explain basics step by step
 ### How Internet Works
 * Normal: `Client(your device) → ISP → DNS → Destination`
 * With Proxy: `Client(your device) → Proxy → Proxy's DNS Built-in → ISP → Destination`
@@ -14,11 +14,11 @@ It turns `example.com` into the `IP address` that the Internet uses.
 A computer asks a DNS server to look up the address.
 The server replies with the IP (or says “not found”).
 
-#### There are two type of DNS
+#### There are two types of DNS
 * DHCP - Your router or ISP handle the DNS Automatically
 * Static - You type a specific DNS address (e.g.,`8.8.8.8`) into your network setting, control it manually and ignore ISP's DNS
 
-<!-- How ISP Block Internet Access in Iran -->
+<!-- How ISP Block Internet Access in Iran 2026-->
 ## How ISP Block Internet Access in Iran
 
 

@@ -34,5 +34,3 @@ first things to know is that in order to run this procedure, we need a platform 
 
 ### 💻Linux:
 * [Nekoray](https://github.com/MatsuriDayo/nekoray)
-
-you82 - [YouTube](youtube.com/@you82.official) | [Instagram](instagram.com/you82.official) | [Email](mailto:you82.business@gmail.com)

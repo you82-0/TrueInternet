@@ -20,11 +20,11 @@ The server replies with the IP (or says “not found”).
 
 <!-- How ISPs Blocked Internet Access in Iran -->
 ## How ISPs Blocked Internet Access in Iran 2026
-Since 8 January 2026, due to suppress Iranian Protest and prevent from Inner War happening, All ISPs in Iran blocked 90,000,000 people's access to Public DNS and all left now is just a National Restricted Network that uses `5.200.200.200` as a restricted DNS & so far, using any static DNS either has been blocked or rewrite to the `5.200.200.200'; and that way they have full control over Blocking.
+Since 8 January 2026, due to suppress Iranian Protest and prevent from Inner War happening, All ISPs in Iran blocked 90,000,000 people's access to Public DNS and all left now is just a National Restricted Network that uses `5.200.200.200` as a restricted DNS & so far, using any static DNS either has been blocked or rewrite to the `5.200.200.200`; and that way they have full control over Blocking.
 
 <!-- Google Safesearch -->
 ## Google Safesearch
-Since 8 January 2026, the Authorities have decided to Lock Safesearch feature in [Google](google.com)
+Since 8 January 2026, the Authorities have decided to Lock Safesearch feature in [Google](google.com) down; all Google search since the day directly go to the `216.239.38.120` which is the actual IP Address for `safesearch.google.com`
 
 
 <!-- GUI Client -->

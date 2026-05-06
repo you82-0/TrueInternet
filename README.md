@@ -12,7 +12,7 @@ Since 8 January 2026, due to suppress Iranian Protest and prevent from Inner War
 
 <!-- Google Safesearch -->
 ## Google Safesearch
-Since 8 January 2026, the Authorities have decided to Lock Safesearch feature in [Google](google.com) down; all Google search since the day directly go to the `216.239.38.120` which is the actual IP Address for `safesearch.google.com` which Filter the searching result regardless of your wills or device policy
+Since 8 January 2026, the Authorities have decided to Lock Safesearch feature in [Google](google.com) down; all Google search since the day directly go to the `216.239.38.120` which is the actual IP Address for `forcesafesearch.google.com` which Filter the searching result regardless of your wills or device policy
 
 <!-- Let's Build -->
 ## Let's Build
